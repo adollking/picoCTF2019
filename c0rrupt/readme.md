@@ -69,3 +69,17 @@ File: fixed.png (202940 bytes)
 ERRORS DETECTED in fixed.png
 ```
 The invalid chunk length (too large) error does not specify a chunk, must begin at the start and check each chunk, withthe format of chunks and each field’s length: 4 bytes (length) - 4 bytes (chunk type) - lengthbytes (data) - 4 bytes (CRC).
+
+
+change 
+```console 
+00000050: 52 24 f0 aa aa ff a5 ab 44 45 54 78 5e ec bd 3f  R$......DETx^..?
+
+
+```
+to 
+
+```console
+00000050: 52 24 f0 aa aa ff a5 49 44 41 54 78 5e ec bd 3f  R$.....IDATx^..?
+```
+and get flag picoCTF{c0rrupt10n_1847995}
