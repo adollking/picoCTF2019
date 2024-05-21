@@ -1,9 +1,9 @@
-#like1000 
+# like1000 
 
 This [.tar](1000.tar) file got tarred a lot.
 
 
-#solution 
+# solution 
 
 
 ```console 
