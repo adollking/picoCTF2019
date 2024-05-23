@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed May 22 22:48:12 2024
+Invocation: foremost flag.txt 
+Output directory: /mnt/c/Users/Administrator/Downloads/picoCTF/picoCTF_2019/extesion/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flag.txt
+Start: Wed May 22 22:48:12 2024
+Length: 9 KB (9984 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       9 KB 	          0 	  (1697 x 608)
+Finish: Wed May 22 22:48:12 2024
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed May 22 22:48:13 2024
